@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Jupiter_GASCompanion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Etern\Unreal Projects\Jupiter\Intermediate\Build\Win64\x64\JupiterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Etern\Unreal Projects\Jupiter\Plugins\Jupiter_GASCompanion\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jupiter_GASCompanion\Module.Jupiter_GASCompanion.cpp.obj"
+"C:\Users\Etern\Unreal Projects\Jupiter\Plugins\Jupiter_GASCompanion\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jupiter_GASCompanion\Default.rc2.res"
+/OUT:"C:\Users\Etern\Unreal Projects\Jupiter\Plugins\Jupiter_GASCompanion\Intermediate\Build\Win64\x64\UnrealEditor\Development\Jupiter_GASCompanion\UnrealEditor-Jupiter_GASCompanion.lib"

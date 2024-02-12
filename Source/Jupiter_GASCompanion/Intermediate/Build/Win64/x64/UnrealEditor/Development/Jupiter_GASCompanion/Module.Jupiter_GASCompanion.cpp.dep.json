@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\etern\\unreal projects\\jupiter\\plugins\\jupiter_gascompanion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jupiter_gascompanion\\module.jupiter_gascompanion.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\etern\\unreal projects\\jupiter\\intermediate\\build\\win64\\x64\\jupitereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\etern\\unreal projects\\jupiter\\plugins\\jupiter_gascompanion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jupiter_gascompanion\\definitions.jupiter_gascompanion.h",
+            "c:\\users\\etern\\unreal projects\\jupiter\\plugins\\jupiter_gascompanion\\source\\jupiter_gascompanion\\private\\jupiter_gascompanion.cpp",
+            "c:\\users\\etern\\unreal projects\\jupiter\\plugins\\jupiter_gascompanion\\source\\jupiter_gascompanion\\public\\jupiter_gascompanion.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

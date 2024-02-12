@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Jupiter_GASCompanion.cpp.obj": [
+			"Jupiter_GASCompanion.cpp.obj"
+		]
+	}
+}
