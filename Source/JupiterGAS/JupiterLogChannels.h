@@ -10,3 +10,4 @@
 //	Verbose - This is why this happened. What you may turn on to debug the ability system code.
 
 JUPITERGAS_API DECLARE_LOG_CATEGORY_EXTERN(LogJupiterGAS, Log, All);
+JUPITERGAS_API DECLARE_LOG_CATEGORY_EXTERN(LogJupiterAbility, Log, All);

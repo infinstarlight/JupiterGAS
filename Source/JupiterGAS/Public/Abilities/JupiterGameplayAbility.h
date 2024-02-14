@@ -4,10 +4,11 @@
 
 #include "CoreMinimal.h"
 #include "Abilities/GameplayAbility.h"
+#include "JupiterGAS/JupiterAbilityTypes.h"
 #include "JupiterGameplayAbility.generated.h"
 
 /**
- * 
+ * Base class for all Jupiter abilities
  */
 UCLASS()
 class JUPITERGAS_API UJupiterGameplayAbility : public UGameplayAbility
